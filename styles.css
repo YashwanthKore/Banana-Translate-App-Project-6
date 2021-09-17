@@ -23,6 +23,7 @@ footer, h1{
 }
 footer{
     padding: 1rem;
+    background-color: gray;
 }
 
 h2{
